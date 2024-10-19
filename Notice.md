@@ -14,7 +14,7 @@ Here are some important updates and instructions those are required to complete 
 **4. Final Project:**
 - You need to submit your project in github and share the project link in the following google sheet. [Project Github Link](https://docs.google.com/spreadsheets/d/1P11n6mZ9xZHtBhfVnNTRudFJav73baLCFzC-qVvcYAw/edit?gid=1484547587#gid=1484547587). 
 
-- You have to complete your project by *31st October* and submnit your project in github. For more details check - [Project.md](https://github.com/samsuddoha/Python-Programming/blob/main/Project.md). 
+- You have to complete your project by *31st October* and submnit your project in github. For more details check - [Project.md](https://github.com/samsuddoha/Database-2/blob/main/Project.md). 
 
 **5. Assignment Submission:**
 - Submit your assignment by github before final exam and share the github link in the following google sheet. [Assignment Github Link](https://docs.google.com/spreadsheets/d/1P11n6mZ9xZHtBhfVnNTRudFJav73baLCFzC-qVvcYAw/edit?gid=1121390677#gid=1121390677).
